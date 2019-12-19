@@ -1,0 +1,4 @@
+resources/tileset/levelTile.png
+t 0 0 32 32
+b 0 256 32 32
+c 0 0 32 32
